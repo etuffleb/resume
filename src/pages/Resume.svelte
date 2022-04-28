@@ -1,17 +1,21 @@
 <script>
-  import Title from '../parts/Title.svelte';
-  import Contacts from '../parts/Contacts.svelte';
-  import About from '../parts/About.svelte';
-  import Skills from '../parts/Skills.svelte';
-  import Experience from '../parts/Experience.svelte';
-  import Education from '../parts/Education.svelte';
+  import Title from '../sections/Title.svelte';
+  import Contacts from '../sections/Contacts.svelte';
+  import About from '../sections/About.svelte';
+  import Skills from '../sections/Skills.svelte';
+  import Experience from '../sections/Experience.svelte';
+  import Education from '../sections/Education.svelte';
+  // import Languages from '../sections/Languages.svelte';
 </script>
 
-<div class="bg-snow w-">
-  <Title/>
-  <Contacts/>
-  <About/>
-  <Skills/>
-  <Experience/>
-  <Education/>
-</div>
+<main class="bg-snow min-w-screen min-h-screen py-8 px-4">
+  <div class="max-w-ideal mx-auto">
+    <Title class="mb-8"/>
+    <Contacts class="mb-8"/>
+    <About class="mb-8"/>
+    <Skills class="mb-8"/>
+    <Experience class="mb-8"/>
+    <Education class="mb-8"/>
+    <!-- <Languages class="mb-8"/> -->
+  </div>
+</main>

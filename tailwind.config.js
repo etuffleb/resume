@@ -1,10 +1,14 @@
-export default {
+module.exports = {
   plugins: [],
   theme: {
     extend: {
       colors: {
         'snow': '#fffafa',
+        'onyx': '#353839',
       },
+      maxWidth: {
+        'ideal': '90ch',
+      }
     },
   },
   content: [

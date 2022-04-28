@@ -31,7 +31,7 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@sveltejs/vite-plugin-svelte@^1.0.0-next.42":
+"@sveltejs/vite-plugin-svelte@^1.0.0-next.30":
   version "1.0.0-next.42"
   resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-1.0.0-next.42.tgz#09e5327eb2cda0c067367864ff33c26080847ae9"
   integrity sha512-I8ILzfjVQuOkl6eDHif6/QJhOEBnsA40u6/0RDWK0mujwOr+MfWCWEZEnrTKqa6YIVMO+uktfoknu61chbAIeg==
