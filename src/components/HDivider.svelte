@@ -1,2 +1,2 @@
 
-<div class={`w-fill h-px bg-onyx ${$$props.class ?? ''}`}></div>
+<div class={`w-fill border-t border-onyx border-solid ${$$props.class ?? ''}`}></div>

@@ -8,7 +8,7 @@ module.exports = {
       },
       maxWidth: {
         'ideal': '90ch',
-      }
+      },
     },
   },
   content: [
