@@ -13,7 +13,7 @@
     <Title/>
     <Contacts class="mt-8"/>
     <About class="mt-8"/>
-    <Skills class="mt-8 print:break-after-page"/>
+    <Skills class="mt-8"/>
     <Experience class="mt-8"/>
     <Education class="mt-8"/>
     <!-- <Languages class="mb-8"/> -->

@@ -1,5 +1,4 @@
 <script>
-	import LinkedInIcon from '../icons/LinkedInIcon.svelte';
 	import PhoneIcon from '../icons/PhoneIcon.svelte';
 	import EmailIcon from '../icons/EmailIcon.svelte';
 	import LocationIcon from '../icons/LocationIcon.svelte';
@@ -7,11 +6,11 @@
   import Text from '../components/Text.svelte';
 </script>
 
-<section class={`w-full flex flex-wrap flex-col sm:flex-row print:flex-row justify-around items-center ${$$props.class ?? ''}`}>
+<section class={`w-full flex flex-wrap flex-col md:flex-row print:flex-row justify-around items-center ${$$props.class ?? ''}`}>
 
   <div class="border-solid border-onyx border-t
-    w-full sm:basis-full print:basis-full
-    sm:self-stretch print:self-stretch
+    w-full md:basis-full print:basis-full
+    md:self-stretch print:self-stretch
     mb-6"
   ></div>
 
@@ -21,12 +20,12 @@
   </Text>
 
   <div class="border-solid border-onyx
-    border-t sm:border-t-0 print:border-t-0
-    border-l-0 sm:border-l print:border-l
-    w-24 sm:w-0 print:w-0
-    sm:self-stretch print:self-stretch
-    my-3 sm:my-0 print:my-0 mx-0
-    sm:mx-2 print:mx-2"
+    border-t md:border-t-0 print:border-t-0
+    border-l-0 md:border-l print:border-l
+    w-24 md:w-0 print:w-0
+    md:self-stretch print:self-stretch
+    my-3 md:my-0 print:my-0 mx-0
+    md:mx-2 print:mx-2"
   ></div>
 
   <Text class="text-sm font-semibold">
@@ -37,12 +36,12 @@
   </Text>
 
   <div class="border-solid border-onyx
-    border-t sm:border-t-0 print:border-t-0
-    border-l-0 sm:border-l print:border-l
-    w-24 sm:w-0 print:w-0
-    sm:self-stretch print:self-stretch
-    my-3 sm:my-0 print:my-0 mx-0
-    sm:mx-2 print:mx-2"
+    border-t md:border-t-0 print:border-t-0
+    border-l-0 md:border-l print:border-l
+    w-24 md:w-0 print:w-0
+    md:self-stretch print:self-stretch
+    my-3 md:my-0 print:my-0 mx-0
+    md:mx-2 print:mx-2"
   ></div>
 
   <Text class="text-sm font-semibold">
@@ -53,12 +52,12 @@
   </Text>
 
   <div class="border-solid border-onyx
-    border-t sm:border-t-0 print:border-t-0
-    border-l-0 sm:border-l print:border-l
-    w-24 sm:w-0 print:w-0
-    sm:self-stretch print:self-stretch
-    my-3 sm:my-0 print:my-0 mx-0
-    sm:mx-2 print:mx-2"
+    border-t md:border-t-0 print:border-t-0
+    border-l-0 md:border-l print:border-l
+    w-24 md:w-0 print:w-0
+    md:self-stretch print:self-stretch
+    my-3 md:my-0 print:my-0 mx-0
+    md:mx-2 print:mx-2"
   ></div>
 
   <Text class="text-sm font-semibold">

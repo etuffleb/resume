@@ -21,9 +21,9 @@
 
 <Section class={$$props.class} title="Skills">
 
-  <ul class="list-disc pl-4">
+  <ul class="list-disc pl-4 columns-1 md:columns-2 print:columns-2">
     {#each skills as skill}
-      <li>
+      <li class="break-inside-avoid">
         <Text>
           {skill.title}
         </Text>
