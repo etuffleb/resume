@@ -14,9 +14,11 @@
     mb-6"
   ></div>
 
-  <Text class="text-sm font-semibold flex items-center">
-    <LocationIcon class="mr-1"/>
-    Tbilisi, Georgia
+  <Text class="text-sm font-semibold">
+    <a href="https://www.google.com/maps/place/Tbilisi,+Georgia" target="_blank" class="flex items-center underline-offset-2 hover:underline">
+      <LocationIcon class="mr-1"/>
+      Tbilisi, Georgia
+    </a>
   </Text>
 
   <div class="border-solid border-onyx
@@ -29,7 +31,7 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="mailto:dmitry.mihaylov.main@gmail.com"  class="flex items-center">
+    <a href="mailto:dmitry.mihaylov.main@gmail.com"  class="flex items-center underline-offset-2 hover:underline">
       <EmailIcon class="mr-1"/>
       dmitry.mihaylov.main@gmail.com
     </a>
@@ -45,7 +47,7 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="https://www.linkedin.com/in/dmitry-mikhaylov-79a01a135/" target="_blank" class="flex items-center">
+    <a href="https://www.linkedin.com/in/dmitry-mikhaylov-79a01a135/" target="_blank" class="flex items-center underline-offset-2 hover:underline">
       <span class="mr-1">LinkedIn</span>
       <LinkIcon/>
     </a>
@@ -61,7 +63,7 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="tel:+995-557-26-97-41" class="flex items-center">
+    <a href="tel:+995-557-26-97-41" class="flex items-center underline-offset-2 hover:underline">
       <PhoneIcon class="mr-1"/>
       +995 557 26 97 41
     </a>

@@ -1,4 +1,5 @@
 <script>
+	import PrintButton from '../components/PrintButton.svelte';
   import Title from '../sections/Title.svelte';
   import Contacts from '../sections/Contacts.svelte';
   import About from '../sections/About.svelte';
@@ -8,8 +9,10 @@
   import Languages from '../sections/Languages.svelte';
 </script>
 
-<main class="bg-snow min-w-screen min-h-screen py-8 px-4">
-  <div class="max-w-ideal mx-auto">
+<main class="bg-snow min-w-screen min-h-screen px-4">
+  <div class="max-w-ideal mx-auto py-8 relative">
+    <PrintButton class="absolute right-0 top-2 hidden md:block"/>
+
     <Title/>
     <Contacts class="mt-6"/>
     <About class="mt-6"/>
