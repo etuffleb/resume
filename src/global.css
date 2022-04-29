@@ -6,3 +6,17 @@ body, #app {
   width: 100vw;
   height: 100vh;
 }
+
+@font-face {
+  font-family: Lora;
+  font-weight: 400;
+  src: url(/fonts/Lora-Regular.woff);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lora;
+  font-weight: 500;
+  src: url(/fonts/Lora-Medium.woff);
+  font-display: swap;
+}

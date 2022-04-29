@@ -7,7 +7,7 @@
 
 <section class={$$props.class}>
   {#if title}
-    <Text class="uppercase text-3xl font-semibold">
+    <Text class="uppercase text-3xl font-semibold tracking-wide">
       {title}
     </Text>
 

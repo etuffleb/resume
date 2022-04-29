@@ -9,6 +9,9 @@ module.exports = {
       maxWidth: {
         'ideal': '90ch',
       },
+      fontFamily: {
+        'fancy': 'ui-serif, Lora, Georgia, Cambria, "Times New Roman", Times, serif',
+      }
     },
   },
   content: [

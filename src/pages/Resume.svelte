@@ -5,17 +5,17 @@
   import Skills from '../sections/Skills.svelte';
   import Experience from '../sections/Experience.svelte';
   import Education from '../sections/Education.svelte';
-  // import Languages from '../sections/Languages.svelte';
+  import Languages from '../sections/Languages.svelte';
 </script>
 
 <main class="bg-snow min-w-screen min-h-screen py-8 px-4">
   <div class="max-w-ideal mx-auto">
     <Title/>
-    <Contacts class="mt-8"/>
-    <About class="mt-8"/>
-    <Skills class="mt-8"/>
-    <Experience class="mt-8"/>
-    <Education class="mt-8"/>
-    <!-- <Languages class="mb-8"/> -->
+    <Contacts class="mt-6"/>
+    <About class="mt-6"/>
+    <Skills class="mt-6"/>
+    <Experience class="mt-6"/>
+    <Education class="mt-6"/>
+    <Languages class="mt-6"/>
   </div>
 </main>
