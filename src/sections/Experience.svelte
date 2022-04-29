@@ -27,7 +27,7 @@
   </Text>
 
   <Text class="mt-2">
-    Have been engaged in more than 10 different projects in Netcracker among which
+    I have been engaged in more than 10 different projects in Netcracker among which
   </Text>
 
   <ul class="list-disc mt-2 pl-6">

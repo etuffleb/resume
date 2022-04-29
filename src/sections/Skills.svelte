@@ -3,53 +3,32 @@
   import Section from './../components/Section.svelte';
 
   const skills = [
-    'Typescript',
-    'JavaScript',
-    'React',
-    'Angular',
-    'HTML', 
-    'CSS',
+    { title: 'Primary languages', items: ['Typescript', 'JavaScript'] },
+    { title: 'Frameworks', items: ['React', 'Angular', 'React Native', 'Svelte'] },
+    { title: 'Layout', items: ['HTML'] },
+    { title: 'Styling', items: ['CSS', 'SCSS', 'Less', 'Tailwind CSS'] },
+    { title: 'Component libraries', items: ['Material UI', 'Ant design', 'Storybook'] },
+    { title: 'State management', items: ['Redux', 'ngRx', 'Recoil', 'Jotai', 'rxJs'] },
+    { title: '3D Representation', items: ['WebGL', 'Three.js', 'React Three Fiber'] },
+    { title: 'Bundling', items: ['Webpack', 'Rollup', 'Vite'] },
+    { title: 'Version control', items: ['Git', 'SVN'] },
+    { title: 'Back end', items: ['Node.js', 'Express', 'SQL', 'Java Quarkus'] },
+    { title: 'CI/CD', items: ['Docker', 'Github and Gitlab pipelines'] },
   ]
-
-  const additionalSkills = [
-    'Node.js',
-    'Three.js',
-    'Git',
-    'Docker',
-    'React Native',
-    'Svelte',
-    'rxJs',
-    'Redux',
-    'ngRx',
-    'Recoil',
-    'Storybook',
-    'Webpack',
-    'Rollup',
-    'Vite',
-    'Sass',
-    'Less',
-    'Tailwind css',
-    'SVN',
-    'SQL',
-    'Java',
-  ]
-
 </script>
 
-<!-- TODO: more readable -->
-
 <Section class={$$props.class} title="Skills">
-  <Text class="text-lg">
-    Main:
-  </Text>
-  {#each skills as skill, i}
-    <Text inline>{skill}{#if i !== skills.length - 1},{' '}{/if}</Text>
-  {/each}
 
-  <Text class="text-lg mt-2">
-    Additional:
-  </Text>
-  {#each additionalSkills as skill, i}
-    <Text inline>{skill}{#if i !== additionalSkills.length - 1},{' '}{/if}</Text>
-  {/each}
+  <ul class="list-disc pl-4">
+    {#each skills as skill}
+      <li>
+        <Text>
+          {skill.title}
+        </Text>
+        <Text class="font-medium">
+          /{' '}{#each skill.items as item}{' '}{item}{' '}/{/each}
+        </Text>
+      </li>
+    {/each}
+  </ul>
 </Section>
