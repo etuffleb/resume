@@ -9,7 +9,7 @@
     <img src="/msu_logo.jpeg" alt="Lomonosov Moscow State University Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
 
     <Text class="text-xl font-medium uppercase">
-      Bachlor's, Applied Mathematics
+      Bachelor's, Applied Mathematics
     </Text>
   </div>
 
