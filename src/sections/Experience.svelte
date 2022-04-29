@@ -1,10 +1,10 @@
-<script>  
+<script>
   import Text from './../components/Text.svelte';
   import Section from './../components/Section.svelte';
 </script>
 
 <Section class={$$props.class} title="Experience">
-  
+
   <div class="flex items-center">
     <img src="/nc_logo.jpeg" alt="Netcracker Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
 
@@ -30,12 +30,31 @@
     I have been engaged in more than 10 different projects in Netcracker among which
   </Text>
 
+  <Text class="mt-2 font-medium">
+    Key achivements:
+  </Text>
   <ul class="list-disc mt-2 pl-6">
     <li>
       <Text>
-        Participated in the creation of an internal UI components library on Angular, wrote more than 500 unit tests, and put together CI/CD pipeline
+        Participated in the creation of an internal UI components library on Angular that supports 30+ production projects. Wrote more than 500 unit tests, and put together CI/CD pipeline
       </Text>
     </li>
+    <li class="mt-2">
+      <Text>
+        Participated in the development of service with microfrontend architecture. Optimized our implementation of this technology to 10 times reduce bundle size
+      </Text>
+    </li>
+    <li class="mt-2">
+      <Text>
+        Implemented a payment gateway (Amazon Pay Gateway) for an eCommerce portal
+      </Text>
+    </li>
+  </ul>
+
+  <Text class="mt-2 font-medium">
+    Other activities:
+  </Text>
+  <ul class="list-disc mt-2 pl-6">
     <li class="mt-2">
       <Text>
         Created an interactive map for connecting global telecom services (Angular + Google Maps API)
@@ -53,11 +72,6 @@
     </li>
     <li class="mt-2">
       <Text>
-        Participated in the development of service with microfrontend architecture. Optimized our implementation of this technology
-      </Text>
-    </li>
-    <li class="mt-2">
-      <Text>
         Created a web app that visualizes office interiors. One can view an interactive 3d model of each company office and reserve a vacant table taking into account covid restrictions (React + Three.js)
       </Text>
     </li>
@@ -68,15 +82,10 @@
     </li>
     <li class="mt-2">
       <Text>
-        Implemented a payment gateway (Amazon Pay Gateway) for an eCommerce portal
-      </Text>
-    </li>
-    <li class="mt-2">
-      <Text>
-        Was doing research and developing of an open-source project that finds and presents differences in OpenApi specifications 
+        Was doing research and developing of an open-source project that finds and presents differences in OpenApi specifications
       </Text>
     </li>
   </ul>
-  
+
 
 </Section>
