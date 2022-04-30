@@ -9,7 +9,7 @@
   import Languages from '../sections/Languages.svelte';
 </script>
 
-<main class="bg-snow min-w-screen min-h-screen px-4">
+<main class="bg-snow min-w-screen min-h-screen px-4 sm:px-8 print:px-8">
   <div class="max-w-ideal mx-auto py-8 relative">
     <PrintButton class="absolute right-0 top-2 hidden md:block"/>
 
