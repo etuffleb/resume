@@ -1,4 +1,5 @@
 <script>
+	import I18n from './../components/I18n.svelte';
   import Text from '../components/Text.svelte';
 </script>
 

@@ -4,6 +4,7 @@
 	import LocationIcon from '../icons/LocationIcon.svelte';
 	import LinkIcon from '../icons/LinkIcon.svelte';
   import Text from '../components/Text.svelte';
+  import I18n from '../components/I18n.svelte';
 </script>
 
 <section class={`w-full flex flex-wrap flex-col md:flex-row print:flex-row justify-around items-center ${$$props.class ?? ''}`}>
@@ -67,5 +68,5 @@
       <PhoneIcon class="mr-1"/>
       +7 999 800 13 42
     </a>
-  </Text>
+ </Text>
 </section>
