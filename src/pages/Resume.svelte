@@ -1,4 +1,5 @@
 <script>
+	import LangButton from '../components/LangButton.svelte';
 	import PrintButton from '../components/PrintButton.svelte';
   import Title from '../sections/Title.svelte';
   import Contacts from '../sections/Contacts.svelte';
@@ -11,6 +12,7 @@
 
 <main class="bg-snow min-w-screen min-h-screen px-4 sm:px-8 print:px-8">
   <div class="max-w-ideal mx-auto py-8 relative">
+    <LangButton class="absolute left-0 top-2 hidden md:block"/>
     <PrintButton class="absolute right-0 top-2 hidden md:block"/>
 
     <Title/>

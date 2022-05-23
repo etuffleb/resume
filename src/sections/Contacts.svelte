@@ -4,6 +4,7 @@
 	import LocationIcon from '../icons/LocationIcon.svelte';
 	import LinkIcon from '../icons/LinkIcon.svelte';
   import Text from '../components/Text.svelte';
+  import I18n from '../components/I18n.svelte';
 </script>
 
 <section class={`w-full flex flex-wrap flex-col md:flex-row print:flex-row justify-around items-center ${$$props.class ?? ''}`}>
@@ -63,9 +64,17 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="tel:+995-557-26-97-41" class="flex items-center underline-offset-2 hover:underline">
-      <PhoneIcon class="mr-1"/>
-      +995 557 26 97 41
-    </a>
+    <I18n>
+      <a href="tel:+995-557-26-97-41" class="flex items-center underline-offset-2 hover:underline">
+        <PhoneIcon class="mr-1"/>
+        +995 557 26 97 41
+      </a>
+    </I18n>
+    <I18n lang="ru">
+      <a href="tel:+7-999-735-10-24" class="flex items-center underline-offset-2 hover:underline">
+        <PhoneIcon class="mr-1"/>
+        +7 999 735 1024
+      </a>
+    </I18n>
   </Text>
 </section>
