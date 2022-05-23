@@ -5,20 +5,28 @@
 
 <Section class={$$props.class} title="Education">
 
-  <div class="flex items-center">
-    <img src="/images/msu_logo.jpeg" alt="Lomonosov Moscow State University Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
-
+  <div class="flex items-center justify-between items-baseline">
     <Text class="text-xl font-medium uppercase">
-      Bachelor's, Applied Mathematics
+      School 21
+    </Text>
+
+    <Text>
+      Nov 2018 – Now
+    </Text>
+  </div>
+
+  <div class="mt-4 flex items-center">
+    <Text class="text-xl font-medium uppercase">
+      First Moscow State Medical University (FMSMU)
     </Text>
   </div>
 
   <div class="flex justify-between items-baseline mt-1">
     <Text>
-      Lomonosov Moscow State University (MSU), Moscow Russia
+      Spesialist, Higiene and epidemiology doctor
     </Text>
     <Text>
-      Sep 2015 – May 2019
+      Sep 2013 – May 2019
     </Text>
   </div>
 

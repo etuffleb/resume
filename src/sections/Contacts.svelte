@@ -15,9 +15,9 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="https://www.google.com/maps/place/Tbilisi,+Georgia" target="_blank" class="flex items-center underline-offset-2 hover:underline">
+    <a href="https://www.google.com/maps/place/Moscow,+Russia" target="_blank" class="flex items-center underline-offset-2 hover:underline">
       <LocationIcon class="mr-1"/>
-      Tbilisi, Georgia
+      Moscow, Russia
     </a>
   </Text>
 
@@ -31,9 +31,9 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="mailto:dmitry.mihaylov.main@gmail.com"  class="flex items-center underline-offset-2 hover:underline">
+    <a href="mailto:katya.mihh@gmail.com"  class="flex items-center underline-offset-2 hover:underline">
       <EmailIcon class="mr-1"/>
-      dmitry.mihaylov.main@gmail.com
+      katya.mihh@gmail.com
     </a>
   </Text>
 
@@ -47,7 +47,7 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="https://www.linkedin.com/in/dmitry-mikhaylov-79a01a135/" target="_blank" class="flex items-center underline-offset-2 hover:underline">
+    <a href="#" target="_blank" class="flex items-center underline-offset-2 hover:underline">
       <span class="mr-1">LinkedIn</span>
       <LinkIcon/>
     </a>
@@ -63,9 +63,9 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="tel:+995-557-26-97-41" class="flex items-center underline-offset-2 hover:underline">
+    <a href="tel:+79998001342" class="flex items-center underline-offset-2 hover:underline">
       <PhoneIcon class="mr-1"/>
-      +995 557 26 97 41
+      +7 999 800 13 42
     </a>
   </Text>
 </section>

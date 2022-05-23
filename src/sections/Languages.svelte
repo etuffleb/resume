@@ -13,7 +13,7 @@
         -
       </Text>
       <Text inline class="text-lg">
-        Advanced
+        B2 Upper Intermediate
       </Text>
     </div>
     <div class="flex items-baseline">
