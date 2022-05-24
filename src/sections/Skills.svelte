@@ -10,7 +10,9 @@
   ]
 </script>
 
-<Section class={$$props.class} title="Skills">
+<Section class={$$props.class}>
+  <Text slot="title">Skills</Text>
+
   <ul class="list-disc pl-4 columns-1 md:columns-2 print:columns-2">
     {#each skills as skill, index}
       <li class={`break-inside-avoid ${index !== 0 ? 'mt-2' : ''}`}>

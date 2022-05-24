@@ -3,7 +3,9 @@
   import Text from '../components/Text.svelte';
 </script>
 
-<Section class={$$props.class} title="Languages">
+<Section class={$$props.class}>
+  <Text slot="title">Languages</Text>
+
   <div class="columns-1 sm:columns-2 print:columns-2">
     <div class="flex items-baseline">
       <Text inline class="text-lg font-medium">

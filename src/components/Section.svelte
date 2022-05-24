@@ -1,14 +1,12 @@
 <script>
 	import Text from './Text.svelte';
   import HDivider from './HDivider.svelte';
-
-  export let title = null;
 </script>
 
 <section class={$$props.class}>
-  {#if title}
+  {#if $$slots.title}
     <Text class="uppercase text-3xl font-semibold tracking-wide">
-      {title}
+      <slot name="title"></slot>
     </Text>
 
     <HDivider class="mt-4 mb-6"/>
