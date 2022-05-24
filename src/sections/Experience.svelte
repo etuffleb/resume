@@ -17,18 +17,36 @@
   <div class="flex items-center">
     <img src="/images/tvema_logo.png" alt="TVEMA Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
 
-    <Text class="text-xl font-semibold uppercase">
-      Middle Engineer
-    </Text>
+    <I18n>
+      <Text class="text-xl font-semibold uppercase">
+        Middle Engineer
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-xl font-semibold uppercase">
+        Инженер-разработчик
+      </Text>
+    </I18n>
   </div>
 
-  <div class="flex justify-between items-baseline mt-1">
-    <Text class="text-lg font-medium">
-      TVEMA, Moscow Russia
-    </Text>
-    <Text class="font-medium">
+  <div class="flex justify-between items-baseline mt-1 font-medium">
+    <I18n>
+      <Text class="text-lg">
+        TVEMA, Moscow Russia
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-lg">
+        ТВЕМА, Москва Россия
+      </Text>
+    </I18n>
+
+    <I18n>
       Jan 2020 - Present Day
-    </Text>
+    </I18n>
+    <I18n lang="ru">
+      Янв 2020 - Настоящее время
+    </I18n>
   </div>
 
   <div class="mt-2 break-inside-avoid">

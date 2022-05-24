@@ -15,15 +15,22 @@
   </div>
 
   <div class="flex items-center justify-between items-baseline">
-    <Text class="text-xl font-medium uppercase">
-      School 21
-    </Text>
-
     <I18n>
-      <Text>Nov 2018 – Present Day</Text>
+      <Text class="text-xl font-medium uppercase">
+        School 21
+      </Text>
     </I18n>
     <I18n lang="ru">
-      <Text>Ноя 2018 - Настоящее время</Text>
+      <Text class="text-xl font-medium uppercase">
+        Школа 21
+      </Text>
+    </I18n>
+
+    <I18n>
+      Nov 2018 – Present Day
+    </I18n>
+    <I18n lang="ru">
+      Ноя 2018 - Настоящее время
     </I18n>
   </div>
 
@@ -42,10 +49,10 @@
     </div>
 
     <I18n>
-      <Text>Sep 2013 – May 2019</Text>
+      Sep 2013 – May 2019
     </I18n>
     <I18n lang="ru">
-      <Text>Сен 2013 - Май 2019</Text>
+      Сен 2013 - Май 2019
     </I18n>
   </div>
 

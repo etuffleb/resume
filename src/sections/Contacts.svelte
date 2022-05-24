@@ -48,7 +48,7 @@
   ></div>
 
   <Text class="text-sm font-semibold">
-    <a href="#" target="_blank" class="flex items-center underline-offset-2 hover:underline">
+    <a href="https://www.linkedin.com/in/ekaterina-mikhaylova-69aa4123b/" target="_blank" class="flex items-center underline-offset-2 hover:underline">
       <span class="mr-1">LinkedIn</span>
       <LinkIcon/>
     </a>
