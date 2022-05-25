@@ -53,73 +53,64 @@
     <ul class="list-disc mt-2 pl-6">
       <li class="mt-2">
         <I18n>
-          Software development in C#, C++
+          Developed software in C#, C++ and maintained legacy code
         </I18n>
         <I18n lang="ru">
-          Разработка программного обеспечения на С#, C++
+          Разрабатывала программное обеспечение на С#, C++ и поддерживала старый код
         </I18n>
       </li>
 
       <li class="mt-2">
         <I18n>
-          Writing scripts to create datasets
+          Wrote image preprocessing algorithms
         </I18n>
         <I18n lang="ru">
-          Написание скриптов для создания датасетов
+          Писала алгоритмы предобработки изображений
         </I18n>
       </li>
 
       <li class="mt-2">
         <I18n>
-          Writing scripts to train models
+          Developed and implemented computer vision algorithms
         </I18n>
         <I18n lang="ru">
-          Написание скриптов для обучения моделей
+          Разрабатывала и реализовывала алгоритмы компьютерного зрения
         </I18n>
       </li>
 
       <li class="mt-2">
         <I18n>
-          Injecting models into the Production Environment
+          Automated the formation of datasets of marked data
         </I18n>
         <I18n lang="ru">
-          Внедрение моделей в продакшн среду
+          Автоматизировала формирование датасетов размеченных данных
         </I18n>
       </li>
 
       <li class="mt-2">
         <I18n>
-          Implementation of models from scientific articles
+          Wrote scripts for the learning process of ML models, implemented their structure from scientific articles
         </I18n>
         <I18n lang="ru">
-          Имплементация моделей из научных статей
+          Писала скрипты для запуска процесса обучения ML-моделей, имплементировала их структуру из научных статей
         </I18n>
       </li>
 
       <li class="mt-2">
         <I18n>
-          Writing image preprocessing algorithms
+          Controlled and recorded the dynamics of learning ML models
         </I18n>
         <I18n lang="ru">
-          Написание алгоритмов предобработки изображений
+          Контролировала и регистрировала динамику обучения ML-моделей
         </I18n>
       </li>
 
       <li class="mt-2">
         <I18n>
-          <Text>Development and implementation of computer vision algorithms</Text>
+          Implemented trained ML models into the production environment
         </I18n>
         <I18n lang="ru">
-          <Text>Разработка и реализация алгоритмов компьютерного зрения</Text>
-        </I18n>
-      </li>
-
-      <li class="mt-2">
-        <I18n>
-          Registering the dynamics of model training
-        </I18n>
-        <I18n lang="ru">
-          Регистрация динамики обучения моделей
+          Внедряла обученные ML-модели в продакшн среду
         </I18n>
       </li>
 
