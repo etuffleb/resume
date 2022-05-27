@@ -41,7 +41,7 @@
         Completed more than 20 projects in C, C++, and Python. Also implemented algorithms and worked with graphics, both in a team and alone.
       </I18n>
       <I18n lang="ru">
-        Завершила более 20 проектов на С, С++ и Python. В том числе реализовывала алгоритмы и работала с графикой, как в комадне, так и в одиночку.
+        Завершила более 20 проектов на С, С++ и Python. В том числе реализовывала алгоритмы и работала с графикой, как в команде, так и в одиночку.
       </I18n>
     </div>
   </div>
