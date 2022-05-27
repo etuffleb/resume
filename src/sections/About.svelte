@@ -10,7 +10,7 @@
       For the last 2 and a half years, I have been working on object recognition in images.
       I have experience in the entire cycle of producing machine learning models and computer vision algorithms.
       I know how to work in a team.
-      I teach math for ML, English, and Spanish.
+      I am learning math for ML, English, and Spanish.
       Always motivated and want to self-improve. 
    </Text>
   </I18n>
