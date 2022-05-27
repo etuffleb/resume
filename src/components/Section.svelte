@@ -9,7 +9,7 @@
       <slot name="title"></slot>
     </Text>
 
-    <HDivider class="mt-4 mb-6"/>
+    <HDivider class="mt-2 mb-4"/>
   {/if}
 
   <slot></slot>

@@ -17,12 +17,12 @@
   </I18n>
 
   <I18n>
-    <Text class="mt-3 text-lg text-center uppercase tracking-wider">
+    <Text class="mt-2 text-lg text-center uppercase tracking-wider">
       Computer Vision and Machine Learning Engineer
     </Text>
   </I18n>
   <I18n lang="ru">
-    <Text class="mt-3 text-lg text-center uppercase tracking-wider">
+    <Text class="mt-2 text-lg text-center uppercase tracking-wider">
       Инженер компьютерного зрения и машинного обучения
     </Text>
   </I18n>

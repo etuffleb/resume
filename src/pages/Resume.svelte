@@ -11,16 +11,16 @@
 </script>
 
 <main class="bg-snow text-onyx min-w-screen min-h-screen px-4 sm:px-8 print:px-8">
-  <div class="max-w-ideal mx-auto py-8 relative">
-    <LangButton class="absolute left-0 top-2 hidden md:block"/>
-    <PrintButton class="absolute right-0 top-2 hidden md:block"/>
+  <div class="max-w-ideal mx-auto py-4 relative">
+    <LangButton class="absolute left-0 top-2"/>
+    <PrintButton class="absolute right-0 top-2"/>
 
     <Title/>
-    <Contacts class="mt-6"/>
-    <About class="mt-6"/>
-    <Skills class="mt-6"/>
-    <Experience class="mt-6"/>
-    <Education class="mt-6"/>
-    <Languages class="mt-6"/>
+    <Contacts class="mt-4"/>
+    <About class="mt-4"/>
+    <Experience class="mt-4"/>
+    <Skills class="mt-4"/>
+    <Education class="mt-4"/>
+    <Languages class="mt-4"/>
   </div>
 </main>

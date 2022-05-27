@@ -51,7 +51,7 @@
 
   <div class="mt-2 break-inside-avoid">
     <ul class="list-disc mt-2 pl-6">
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
           Developed software in C#, C++ and maintained legacy code
         </I18n>
@@ -60,7 +60,7 @@
         </I18n>
       </li>
 
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
           Wrote image preprocessing algorithms
         </I18n>
@@ -69,7 +69,7 @@
         </I18n>
       </li>
 
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
           Developed and implemented computer vision algorithms
         </I18n>
@@ -78,7 +78,7 @@
         </I18n>
       </li>
 
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
           Automated the formation of datasets of marked data
         </I18n>
@@ -87,7 +87,7 @@
         </I18n>
       </li>
 
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
           Wrote scripts for the learning process of ML models, implemented their structure from scientific articles
         </I18n>
@@ -96,16 +96,16 @@
         </I18n>
       </li>
 
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
-          Controlled and recorded the dynamics of learning ML models
+          Trained networks for image detection, segmentation, and classification. Such as SSD, FCOS, U-Net, PointNet. Controlled and recorded the dynamics of their learning
         </I18n>
         <I18n lang="ru">
-          Контролировала и регистрировала динамику обучения ML-моделей
+          Обучала сети для детекции, сегментации и классификации изображений. Такие как SSD, FCOS, U-Net, PointNet. Контролировала и регистрировала динамику их обучения
         </I18n>
       </li>
 
-      <li class="mt-2">
+      <li class="mt-1">
         <I18n>
           Implemented trained ML models into the production environment
         </I18n>
