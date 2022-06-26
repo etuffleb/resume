@@ -17,9 +17,9 @@
 
 
   <Text class="text-sm font-semibold">
-    <a href="tel:+995555217654" class="flex items-center underline-offset-2 hover:underline">
+    <a href="tel:+79998001342" class="flex items-center underline-offset-2 hover:underline">
       <PhoneIcon class="mr-1"/>
-      +995 555 21 76 54
+      +7 999 800 13 42
     </a>
   </Text>
 
