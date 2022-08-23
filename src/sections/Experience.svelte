@@ -15,6 +15,63 @@
   </div>
 
   <div class="flex items-center">
+    <img src="/images/nami_logo.png" alt="NAMI Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
+
+    <I18n>
+      <Text class="text-xl font-semibold uppercase">
+        Machine Learning engineer
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-xl font-semibold uppercase">
+        ML-разработчик
+      </Text>
+    </I18n>
+  </div>
+
+  <div class="flex justify-between items-baseline mt-1 font-medium">
+    <I18n>
+      <Text class="text-lg">
+        NAMI, Moscow Russia
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-lg">
+        ГНЦ РФ ФГУП «НАМИ», Москва Россия
+      </Text>
+    </I18n>
+
+    <I18n>
+      Aug 2022 - Present Day
+    </I18n>
+    <I18n lang="ru">
+      Авг 2022 - Настоящее время
+    </I18n>
+  </div>
+
+  <div class="mt-2 break-inside-avoid">
+    <ul class="list-disc mt-2 pl-6">
+      <li class="mt-1">
+        <I18n>
+          I am engaged in recognition of 3D objects using a cloud of points from lidars
+        </I18n>
+        <I18n lang="ru">
+          Занимаюсь распознаванием 3D объектов используя облако точек с лидаров
+        </I18n>
+      </li>
+
+      <li class="mt-1 mb-2">
+        <I18n>
+          I train Fully Sparse 3D Object Detector on Waymo Open Dataset, as well as on my own data
+        </I18n>
+        <I18n lang="ru">
+          Обучаю Fully Sparse 3D Object Detector на открытом Waymo датасете, а также на собственных данных
+        </I18n>
+      </li>
+    </ul>
+  </div>
+
+  <div class="flex items-center">
     <img src="/images/tvema_logo.png" alt="TVEMA Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
 
     <I18n>
@@ -62,10 +119,19 @@
 
       <li class="mt-1">
         <I18n>
-          Wrote image preprocessing algorithms
+          Automated the formation of datasets of marked data
         </I18n>
         <I18n lang="ru">
-          Писала алгоритмы предобработки изображений
+          Автоматизировала формирование датасетов размеченных данных
+        </I18n>
+      </li>
+
+      <li class="mt-1">
+        <I18n>
+          Wrote scripts to start the learning process of ML models, including image preprocessing algorithms
+        </I18n>
+        <I18n lang="ru">
+          Написала скрипты для запуска процесса обучения ML-моделей, в том числе алгоритмы предобработки изображений
         </I18n>
       </li>
 
@@ -80,22 +146,13 @@
 
       <li class="mt-1">
         <I18n>
-          Automated the formation of datasets of marked data
+          Implemented the structure of neural networks from scientific articles
         </I18n>
         <I18n lang="ru">
-          Автоматизировала формирование датасетов размеченных данных
+          Имплементировала структуру нейронных сетей из научных статей
         </I18n>
       </li>
-
-      <li class="mt-1">
-        <I18n>
-          Wrote scripts for the learning process of ML models, implemented their structure from scientific articles
-        </I18n>
-        <I18n lang="ru">
-          Писала скрипты для запуска процесса обучения ML-моделей, имплементировала их структуру из научных статей
-        </I18n>
-      </li>
-
+      
       <li class="mt-1">
         <I18n>
           Trained networks for image detection, segmentation, and classification. Such as SSD, FCOS, U-Net, PointNet. Controlled and recorded the dynamics of their learning
