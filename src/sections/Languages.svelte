@@ -15,25 +15,8 @@
   </div>
 
   <div class="columns-1 sm:columns-2 print:columns-2">
-    <div class="flex items-baseline">
-      <I18n>
-        <Text inline class="text-lg font-medium">
-          English
-        </Text>
-      </I18n>
-      <I18n lang="ru">
-        <Text inline class="text-lg font-medium">
-          Английский
-        </Text>
-      </I18n>
-      <Text inline class="text-lg mx-1">
-        -
-      </Text>
-      <Text inline class="text-lg">
-        B2 Upper Intermediate
-      </Text>
-    </div>
-
+    
+    
     <div class="flex items-baseline">
       <I18n>
         <Text inline class="text-lg font-medium">
@@ -59,5 +42,48 @@
         </Text>
       </I18n>
     </div>
+    
+    
+    <div class="flex items-baseline">
+      <I18n>
+        <Text inline class="text-lg font-medium">
+          English
+        </Text>
+      </I18n>
+      <I18n lang="ru">
+        <Text inline class="text-lg font-medium">
+          Английский
+        </Text>
+      </I18n>
+      <Text inline class="text-lg mx-1">
+        -
+      </Text>
+      <Text inline class="text-lg">
+        B2 Upper Intermediate
+      </Text>
+    </div>
+
+
+    <div class="flex items-baseline">
+      <I18n>
+        <Text inline class="text-lg font-medium">
+          Spanish
+        </Text>
+      </I18n>
+      <I18n lang="ru">
+        <Text inline class="text-lg font-medium">
+          Испанский
+        </Text>
+      </I18n>
+      <Text inline class="text-lg mx-1">
+        -
+      </Text>
+      <I18n>
+        <Text inline class="text-lg">
+          A2 Elementary
+        </Text>
+      </I18n>
+    </div>
+
   </div>
 </Section>
