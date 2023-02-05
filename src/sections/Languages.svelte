@@ -78,11 +78,9 @@
       <Text inline class="text-lg mx-1">
         -
       </Text>
-      <I18n>
-        <Text inline class="text-lg">
-          A2 Elementary
-        </Text>
-      </I18n>
+      <Text inline class="text-lg">
+        A2 Elementary
+      </Text>
     </div>
 
   </div>
