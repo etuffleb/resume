@@ -53,10 +53,10 @@
     <ul class="list-disc mt-2 pl-6">
       <li class="mt-1">
         <I18n>
-          I am engaged in recognition of 3D objects using a cloud of points from lidars
+          I am engaged in recognition of 3D objects using a cloud of points from lidars of unmanned vehicles
         </I18n>
         <I18n lang="ru">
-          Занимаюсь распознаванием 3D объектов используя облако точек с лидаров
+          Занимаюсь распознаванием 3D объектов используя облако точек с лидаров беспилотных автомобилей
         </I18n>
       </li>
 
@@ -76,12 +76,12 @@
 
     <I18n>
       <Text class="text-xl font-semibold uppercase">
-        Middle Engineer
+        Computer Vision Engineer
       </Text>
     </I18n>
     <I18n lang="ru">
       <Text class="text-xl font-semibold uppercase">
-        Инженер-разработчик
+        Инженер-разработчик компьютерного зрения
       </Text>
     </I18n>
   </div>

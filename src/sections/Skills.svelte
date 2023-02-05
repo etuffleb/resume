@@ -3,9 +3,9 @@
   import Section from '../components/Section.svelte';
 
   const skills = [
-    { title: 'Primary languages', titleRu: 'Основные языки', items: ['C#', 'C++', 'Python'] },
-    { title: 'Frameworks', titleRu: 'Фреймворки', items: ['Pytorch', 'CNTK'] },
-    { title: 'Libraries', titleRu: 'Библиотеки', items: ['OpenCV', 'NumPy'] },
+    { title: 'Primary languages', titleRu: 'Основные языки', items: ['Python', 'C++', 'C#'] },
+    { title: 'Frameworks', titleRu: 'Фреймворки', items: ['PyTorch', 'CNTK', 'Scikit-Learn'] },
+    { title: 'Libraries', titleRu: 'Библиотеки', items: ['OpenCV', 'NumPy', 'Pandas', 'Matplotlib', 'ROS2'] },
     { title: 'Version control', titleRu: 'Системы контроля версий', items: ['Git', 'Mercurial'] },
   ]
 </script>
