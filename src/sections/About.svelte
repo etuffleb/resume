@@ -7,7 +7,7 @@
 <Section class={$$props.class}>
   <I18n>
     <Text class="text-lg">
-      For the last 3 years, I have been working on object recognition in images, as well as on the recognition of 3D objects using a cloud of points.
+      For the last 3.5 years, I have been working on object recognition in images, as well as on the recognition of 3D objects using a cloud of points.
       I have experience in the entire cycle of producing machine learning models and computer vision algorithms.
       Also, I have experience of work in a team.
       I am learning math for ML, English, and Spanish.
@@ -16,10 +16,9 @@
   </I18n>
   <I18n lang="ru">
     <Text class="text-lg">
-      Последние 3 года работаю над распознаванием объектов на изображениях, а также над распознаванием 3D обьектов используя облако точек.
+      Последние 3.5 года работаю над распознаванием объектов на изображениях, а также над распознаванием 3D обьектов используя облако точек.
       Есть опыт полного цикла производства моделей машинного обучения и компьютерного зрения, 
       а также опыт работы в команде.
-      Учу математику для ML, английский и испанский языки. Всегда мотивирована и стремлюсь к развитию.
     </Text>
   </I18n>
 </Section>
