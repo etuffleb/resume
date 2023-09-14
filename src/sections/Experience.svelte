@@ -55,19 +55,19 @@
     <ul class="list-disc mt-2 pl-6">
       <li class="mt-1">
         <I18n>
-          Developed software in Python
+          Analyzing MRI images of the lumbar spine
         </I18n>
         <I18n lang="ru">
-          Разрабатывала программное обеспечение на Python
+          Анализирую изображения МРТ поясничного отдела позвоночника
         </I18n>
       </li>
 
       <li class="mt-1">
         <I18n>
-          Automated the formation of datasets of marked data
+          Developing a program to process these images autonomously
         </I18n>
         <I18n lang="ru">
-          Автоматизировала формирование датасетов размеченных данных
+          Разрабатываю программный комплекса для автономной обработки этих изображений
         </I18n>
       </li>
     </ul>
