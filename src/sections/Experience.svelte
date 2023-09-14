@@ -14,6 +14,71 @@
     </I18n>
   </div>
 
+
+
+  <div class="flex items-center">
+    <img src="/images/smartcore_logo.png" alt="SmartCore Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
+
+    <I18n>
+      <Text class="text-xl font-semibold uppercase">
+        Computer Vision Engineer
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-xl font-semibold uppercase">
+        CV-разработчик
+      </Text>
+    </I18n>
+  </div>
+
+  <div class="flex justify-between items-baseline mt-1 font-medium">
+    <I18n>
+      <Text class="text-lg">
+        SmartCore, Moscow Russia
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-lg">
+        AO Смарткор, Москва Россия
+      </Text>
+    </I18n>
+
+    <I18n>
+      May 2023 - Present Day
+    </I18n>
+    <I18n lang="ru">
+      Май 2023 - Настоящее время
+    </I18n>
+  </div>
+
+  <div class="mt-2 break-inside-avoid">
+    <ul class="list-disc mt-2 pl-6">
+      <li class="mt-1">
+        <I18n>
+          Developed software in Python
+        </I18n>
+        <I18n lang="ru">
+          Разрабатывала программное обеспечение на Python
+        </I18n>
+      </li>
+
+      <li class="mt-1">
+        <I18n>
+          Automated the formation of datasets of marked data
+        </I18n>
+        <I18n lang="ru">
+          Автоматизировала формирование датасетов размеченных данных
+        </I18n>
+      </li>
+    </ul>
+  </div>
+
+
+
+
+
+
+
   <div class="flex items-center">
     <img src="/images/nami_logo.png" alt="NAMI Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
 
@@ -42,10 +107,10 @@
     </I18n>
 
     <I18n>
-      Aug 2022 - Present Day
+      Aug 2022 - May 2023
     </I18n>
     <I18n lang="ru">
-      Авг 2022 - Настоящее время
+      Авг 2022 - Май 2023
     </I18n>
   </div>
 
@@ -53,19 +118,19 @@
     <ul class="list-disc mt-2 pl-6">
       <li class="mt-1">
         <I18n>
-          I am engaged in recognition of 3D objects using a cloud of points from lidars of unmanned vehicles
+          I did 3D objects recognition using a cloud of points from lidars of unmanned vehicles
         </I18n>
         <I18n lang="ru">
-          Занимаюсь распознаванием 3D объектов используя облако точек с лидаров беспилотных автомобилей
+          Занималась распознаванием 3D объектов используя облако точек с лидаров беспилотных автомобилей
         </I18n>
       </li>
 
       <li class="mt-1 mb-2">
         <I18n>
-          I train Fully Sparse 3D Object Detector on Waymo Open Dataset, as well as on my own data
+          I trained Fully Sparse 3D Object Detector on Waymo Open Dataset, as well as on my own data
         </I18n>
         <I18n lang="ru">
-          Обучаю Fully Sparse 3D Object Detector на открытом Waymo датасете, а также на собственных данных
+          Обучала Fully Sparse 3D Object Detector на открытом Waymo датасете, а также на собственных данных
         </I18n>
       </li>
     </ul>
