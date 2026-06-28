@@ -79,7 +79,7 @@
         -
       </Text>
       <Text inline class="text-lg">
-        A2 Elementary
+        B1 Pre-Intermediate
       </Text>
     </div>
 

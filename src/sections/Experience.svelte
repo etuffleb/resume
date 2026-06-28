@@ -15,6 +15,40 @@
   </div>
 
 
+  <div class="flex items-center">
+    <img src="/images/sparklo-logo.png" alt="Sparklo Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
+
+    <I18n>
+      <Text class="text-xl font-semibold uppercase">
+        Computer Vision Engineer
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-xl font-semibold uppercase">
+        CV-разработчик
+      </Text>
+    </I18n>
+  </div>
+
+  <div class="flex justify-between items-baseline mt-1 font-medium">
+    <I18n>
+      <Text class="text-lg">
+        Sparklo, United Arab Emirates
+      </Text>
+    </I18n>
+    <I18n lang="ru">
+      <Text class="text-lg">
+        Sparklo, United Arab Emirates
+      </Text>
+    </I18n>
+
+    <I18n>
+      Jun 2024 - Present Day
+    </I18n>
+    <I18n lang="ru">
+      Июн 2024 - Настоящее время
+    </I18n>
+  </div>
 
   <div class="flex items-center">
     <img src="/images/smartcore_logo.png" alt="SmartCore Logo" class="mr-2 w-6 h-6 min-w-6 min-h-6 rounded-full">
@@ -44,10 +78,10 @@
     </I18n>
 
     <I18n>
-      May 2023 - Present Day
+      May 2023 - Jun 2024
     </I18n>
     <I18n lang="ru">
-      Май 2023 - Настоящее время
+      Май 2023 - Июн 2024
     </I18n>
   </div>
 
